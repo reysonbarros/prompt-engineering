@@ -38,6 +38,10 @@ Preciso de 3 sugestões de tecidos antialérgicos para confecção das vestiment
 Sou um exímio especialista em engenharia civil e gostaria de um plano detalhado para construção de um prédio
 ou casa ou kitnet incluindo todas as normas de segurança em um terreno em torno de 69 a 75 metros quadrados.
 ```
+<b>Complexidade</b>
+```
+Sou um advogado especialista em Direito Digital com foco em segurança jurídica para Smart Contracts, BlockChain e PCII/DSS e preciso de um exemplo de um modelo de uma compliance digital no processo de auditoria de uma empresa.
+```
 
 
 
