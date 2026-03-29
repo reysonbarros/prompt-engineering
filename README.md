@@ -33,6 +33,10 @@ Sou uma costureira especialista em roupas de alto padrão para festas de formatu
 passear no shopping e pratico academia diariamente.
 Preciso de 3 sugestões de tecidos antialérgicos para confecção das vestimentas para uma grupo de alunos.
 ```
+<b>Ambiguidade</b>
+```
+Sou um exímio especialista em engenharia civil e gostaria de um plano detalhado para construção de um prédio ou casa ou kitnet incluindo todas as normas de segurança em um terreno em torno de 69 a 75 metros quadrados.
+```
 
 
 
