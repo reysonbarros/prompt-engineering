@@ -4,6 +4,10 @@ Estudo sobre Engenharia de Prompts
 ### Conceitos:
 - <b>Prompt</b>: modelo de input(entrada) em um LLM(Large Languade Model), ou seja, é forma de entrada que um usuário interage com o modelo.
 - <b>Alucinação(Hallucination)</b>: são respostas incorretas, inventadas ou sem sentido geradas por modelos de linguagem possivelmente baseadas em algum padrão probabilístico e não em fatos reais
+- <b>Contexto<b>: proporciona maior clareza ao modelo de inteligência
+- <b>Instrução</b>: o que preciso que o modelo de inteligência execute
+- <b>Dados de entrada</b>: os dados de input para meu modelo ter como referência durante o processamento
+- <b>Indicador de saída</b>: processamento do modelo
   
 
 ### Dicas
