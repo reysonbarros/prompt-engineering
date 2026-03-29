@@ -29,7 +29,9 @@ No laboratório haverá computadores e projetor disponíveis.
 ```
 <b>Sobrecarga</b>
 ```
-Sou uma costureira especialista em roupas de alto padrão para festas de formatura, gosto de usar roupas leves, passear no shopping e pratico academia diariamente. Preciso de 3 sugestões de tecidos antialérgicos para confecção das vestimentas para uma grupo de alunos.
+Sou uma costureira especialista em roupas de alto padrão para festas de formatura, gosto de usar roupas leves,
+passear no shopping e pratico academia diariamente.
+Preciso de 3 sugestões de tecidos antialérgicos para confecção das vestimentas para uma grupo de alunos.
 ```
 
 
