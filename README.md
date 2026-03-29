@@ -6,3 +6,5 @@ Estudo sobre Engenharia de Prompts
 
 - <b>Tokens</b>: limitar também os tokens de saída(resposta): Tokens com valor acima de 2048 também podem causar respostas ineficientes do modelo.
 
+### Plataforma para testes dos modelos:
+platform.openai.com
