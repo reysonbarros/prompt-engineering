@@ -31,21 +31,21 @@ para alunos do 1º ano do Ensino Médio e usando a linguagem de programação Po
 Desenvolva um plano de aula para uma turma de 18 alunos com duração de 90 minutos.
 No laboratório haverá computadores e projetor disponíveis.
 ```
-<b>Sobrecarga</b>
+<b>Sobrecarga</b>(excesso de informação)
 ```
 Sou uma costureira especialista em roupas de alto padrão para festas de formatura, gosto de usar roupas leves,
 passear no shopping e pratico academia diariamente.
 Preciso de 3 sugestões de tecidos antialérgicos para confecção das vestimentas para uma grupo de alunos.
 ```
-<b>Ambiguidade</b>
+<b>Ambiguidade</b>(falta de especificidade)
 ```
 Sou um exímio especialista em engenharia civil e gostaria de um plano detalhado para construção de um prédio
 ou casa ou kitnet incluindo todas as normas de segurança em um terreno em torno de 69 a 75 metros quadrados.
 ```
-<b>Complexidade</b>
+<b>Complexidade</b>(termos tećnicos e jargões)
 ```
 Sou um advogado especialista em Direito Digital com foco em segurança jurídica para Smart Contracts,
-BlockChain e PCII/DSS e preciso de um exemplo de um modelo de uma compliance digital no processo de auditoria de uma empresa.
+BlockChain e PCII/DSS e preciso de um exemplo de um modelo de uma compliance digital inerentes ao âmbito do ramo jurídico interdisciplinar para auditoria de uma empresa.
 ```
 
 
