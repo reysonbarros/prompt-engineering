@@ -3,6 +3,7 @@ Estudo sobre Engenharia de Prompts
 
 ### Conceitos:
 - <b>Prompt</b>: modelo de input(entrada) em um LLM(Large Languade Model), ou seja, é forma de entrada que um usuário interage com o modelo.
+- <b>Alucinação(Hallucination)</b>: são respostas incorretas, inventadas ou sem sentido geradas por modelos de linguagem possivelmente baseadas em algum padrão probabilístico e não em fatos reais
 
 ### Dicas
 - Os melhores prompts são feitos através de 3 pontos-chave: clareza, especificidade e tempo de resposta do modelo(fazer com o que o modelo tenha tempo de análise/pensamento/processamento)
